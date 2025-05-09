@@ -1,0 +1,30 @@
+Repo Dikumpulkan
+https://github.com/slamdhodho/PVisual_Kalkulator.git
+
+
+https://forms.gle/AsaragyuP8VujQ2y7
+
+https://chatgpt.com/share/67f0fe53-d910-8006-bbbf-2efb5d775e3f
+
+
+P3 & P4 (kelompok boleh). pilih app di GitHub, buat/fork repo di git, 
+create di visual studio, hrs desktop apps, buat readme di git fitur, 
+flow, desain awal.  dan selesai create push di repo tadi diatas. end 10 apr
+
+
+Buat repositori di git create prpject di visual studio 
+Pilih project bebas 
+
+Tulis deskripsi di readme di git fitur ke dalam git
+Design awal di project pilihan produk langsung di aplikasi, tombol aja gpp
+
+
+Jangan lupa di push
+
+
+project (C#) - dekstop
+kalkulator (+ - : x)
+
+buat/fork repo di git
+buat readme di git fitur, flow & desain awal
+create push di repo
